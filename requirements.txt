@@ -1,0 +1,6 @@
+flask==2.3.3
+pandas==2.2.3
+boto3==1.36.26
+plotly==5.16.1
+python-dotenv==1.0.0
+gunicorn==21.2.0
